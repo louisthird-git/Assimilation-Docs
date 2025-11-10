@@ -1,10 +1,6 @@
-# Assimilation-Docs
-Public documentation and release notes for Fallout 4 mod "Assimilation".
-
-### Development Repository
-Private source repository hosted on GitHub (access restricted).
-
 # Assimilation
+
+Public documentation and release notes for Fallout 4 mod "Assimilation".
 
 A Fallout 4 quest and faction expansion mod focused on immersive courier gameplay and integration with existing factions.
 
