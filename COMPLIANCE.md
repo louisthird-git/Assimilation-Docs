@@ -7,6 +7,9 @@ Assimilation has been designed with careful consideration to comply with platfor
 ### Features Supporting Compliance
 
 - **AAF Optional:** Advanced Animation Framework (AAF) is optional. If not installed, animations that might depict sexual acts are replaced by a **fade-to-black with popup messages**.
+- **Enable Romance Flag:** Players can toggle this boolean setting:
+  - **True:** Romance interactions are enabled.
+  - **False:** Romance interactions are disabled.
 - **Romance Notifications Flag:** Players can toggle this boolean setting:
   - **True:** Displays graphic descriptions of romance interactions.
   - **False:** Displays a neutral, safe message "That was great!" instead of graphic content.
@@ -16,7 +19,7 @@ Assimilation has been designed with careful consideration to comply with platfor
 
 ```mermaid
 flowchart TD
-    A[StartAnimation] --> B{Actors exist AND bEnableSex?}
+    A[StartAnimation] --> B{Actors exist AND Enable Romance?}
     B -- No --> Z[Skip Animation / Return]
     B -- Yes --> C{Behavior Quiesce Quest running?}
     C -- Yes --> D[Reset Quiesce Timeout]
