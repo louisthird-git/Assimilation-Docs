@@ -20,8 +20,8 @@ Assimilation has been designed with careful consideration to comply with platfor
 flowchart TD
     A[StartAnimation] --> B{Actors exist AND bEnableSex?}
     B -- No --> Z[Skip Animation / Return]
-    B -- Yes --> C{Quest running?}
-    C -- Yes --> D[Reset Behavior]
+    B -- Yes --> C{Behavior Quiesce Quest running?}
+    C -- Yes --> D[Reset Quiesce Timeout]
     C -- No --> E[Continue]
     D --> E
     E --> F{AAF installed?}
