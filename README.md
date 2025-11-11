@@ -80,6 +80,17 @@ Assimilation conflicts with the following other mods mostly because they are als
 3. [MCM](https://www.nexusmods.com/fallout4/mods/21497) \- needed for extensive configuration options  
 4. [LLFP](https://www.loverslab.com/topic/81889-devtestbeta-ll-fourplay-community-f4se-plugin-v54-2025-03-30/) \- needed for string functions only (included but included in [AAF](https://www.moddingham.com/viewtopic.php?t=2) if you install that)
 
+## ⚙️ Installation
+
+1. Download the latest archive from [NexusMods](https://www.nexusmods.com/fallout4/mods/71744) or [LoversLab](https://www.loverslab.com/topic/160109-assimilation/).
+2. Review the [**Conflicts**](#conflicts) and [**Requirements**](#requirements) sections above before proceeding.
+3. Install with your favorite mod manager ([**Mod Organizer 2**](https://www.nexusmods.com/fallout4/mods/6194) or [**Vortex**](https://www.nexusmods.com/site/mods/1)).
+4. Additional features are available in the mod if the [**Optional Mods**](#optional-mods) listed below are installed.
+5. Version 3.0 and later has many portions re-written, and it is unlikely that an upgrade from any 2.0 version will work properly.
+6. Version 3.0 and later are so different that I would recommend starting a new game after download and installation.
+7. Definitely do not be assimilated into a faction when upgrading\!  
+8. Ensure **Assimilation.esp** is active in your load order.
+
 ## 🧩 Optional Mods
 
 1. [AAF](https://www.moddingham.com/viewtopic.php?t=2) including some [themes/animations](https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/) \- for animation triggering  
@@ -90,17 +101,6 @@ Assimilation conflicts with the following other mods mostly because they are als
 6. [Tattoo After Rape](https://www.loverslab.com/topic/136928-aaf-tattoo-after-rape-1182020) \- will use it for skin overlay changes if installed, and otherwise it uses [Looksmenu](https://www.nexusmods.com/fallout4/mods/12631) directly  
 7. [Integrated with Scripted Face Tints (SFT)](https://www.nexusmods.com/fallout4/mods/76797) \- if you want face changes  
 8. [F4z Ro D'oh](https://www.nexusmods.com/fallout4/mods/39848) \- for better silent dialogue lines
-
-## ⚙️ Installation
-
-1. Download the latest archive from [NexusMods](https://www.nexusmods.com/fallout4/mods/71744) or [LoversLab](https://www.loverslab.com/topic/160109-assimilation/).
-2. Review the Conflicts and Requirements section
-3. Install with your favorite mod manager (MO2 or Vortex).
-4. Additional features are available in the mod if the Optional Mods listed below are installed.
-5. Version 3.0 and later has many portions re-written, and it is unlikely that an upgrade from any 2.0 version will work properly.
-6. Version 3.0 and later are so different that I would recommend starting a new game after download and installation.
-7. Definitely do not be assimilated into a faction when upgrading\!  
-8. Ensure **Assimilation.esp** is active in your load order.
 
 ## 🗒️ Changelog
 
