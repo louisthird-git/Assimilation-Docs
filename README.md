@@ -91,7 +91,7 @@ Assimilation conflicts with the following other mods mostly because they are als
 7. [Integrated with Scripted Face Tints (SFT)](https://www.nexusmods.com/fallout4/mods/76797) \- if you want face changes  
 8. [F4z Ro D'oh](https://www.nexusmods.com/fallout4/mods/39848) \- for better silent dialogue lines
 
-## 🛠️ Installation
+## ⚙️ Installation
 
 1. Download the latest archive from [NexusMods](https://www.nexusmods.com/fallout4/mods/71744) or [LoversLab](https://www.loverslab.com/topic/160109-assimilation/).
 2. Review the Conflicts and Requirements section
