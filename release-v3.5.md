@@ -1,4 +1,10 @@
-### **Prioritized Issues (these will roll off each release)**
+# Release v3.5
+
+* Released 2025-11-09
+* [NexusMods](https://www.nexusmods.com/fallout4/mods/71744)
+* [LoversLab](https://www.loverslab.com/topic/160109-assimilation/)
+
+## Issues
 
 * Transitioned Talk Help Quests from storing Quest Form to storing Quest FormID & plugin filename making it easier to develop external Talk Help Quest mods. \- FIXED, IN NEXT RELEASE  
 * Assimilation forces third person camera to be centered. Temp fix with "player.caa animarchetypeplayer". The hands-up animation is an AnimArcheType so need to confirm what was done before the problem occurred. Appears to be a PlayerRef.ChangeAnimArchetype(AnimArchetypeNervous) call to make the player nervous which isn't necessary and removed it. \- FIXED, IN NEXT RELEASE  
@@ -9,9 +15,8 @@
 * Player Assimilated dialogue inappropriate for certain factions (BoS should only salute BoS members). Found/fixed what I could. \- FIXED, IN NEXT RELEASE  
 * Mods that undress like CWSS or AN76 conflict when apparel is locked.  Need a way to delay re-locking till after redress by those mods.  Also, resetting the lock time.  Tricky but probably not impossible.  There is a difference between ones that should abort the redress (like conflicting clothing), and those that should delay and then re-lock (like undressing when using a toilet).  Aborting the redress is already implemented/working, but the delay/re-lock is not. Watched for furniture forms on sit/getup and AN76 keyword. \- FIXED, IN NEXT RELEASE  
 * [Fusion Girl](https://www.loverslab.com/files/file/18238-zex-fusion-girl/) and [True Wasteland Body (TWB)](https://www.nexusmods.com/fallout4/mods/36410) support. Both are similar to [CBBE](https://www.nexusmods.com/fallout4/mods/15) with slider names but different Vertices they effect and more spaces in the slider names (CBBE only has 2).  Need to test spaces in slider names to make sure they are working correctly (can use "7B Upper" and "7B Lower" with CBBE for that) and pick "muscular" slider names/values to be affected for FEV (and make them configurable in MCM). \- FIXED, IN NEXT RELEASE
-
    
-Prioritized Features (these will roll off each release)
+## Features
 
 * General  
   * Trigger possible assimilation via hotkey when not assimilated already. \- DONE, IN NEXT RELEASE  
@@ -41,4 +46,3 @@ Prioritized Features (these will roll off each release)
     * Watered Down \- Fetch water (all) \- DONE, IN NEXT RELEASE  
     * Feed Me \- Fetch food (all) \- DONE, IN NEXT RELEASE  
     * Signed, Sealed, Delivered \- Deliver mail between mailboxes (Settlers, Minutemen) \- DONE, IN NEXT RELEASE
-

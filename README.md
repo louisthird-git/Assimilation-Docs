@@ -85,7 +85,7 @@ Assimilation conflicts with the following other mods mostly because they are als
 
 1. Download the latest archive from [NexusMods](https://www.nexusmods.com/fallout4/mods/71744) or [LoversLab](https://www.loverslab.com/topic/160109-assimilation/).
 2. Review the [**Conflicts**](#conflicts) and [**Requirements**](#requirements) sections above before proceeding.
-3. Install with your favorite mod manager ([**Mod Organizer 2**](https://www.modorganizer.org/) or [**Vortex**](https://www.nexusmods.com/site/mods/1)).
+3. Install with your favorite mod manager ([Mod Organizer 2](https://www.modorganizer.org/) or [Vortex](https://www.nexusmods.com/site/mods/1)).
 4. Additional features are available in the mod if the [**Optional Mods**](#optional-mods) listed below are installed.
 5. Version 3.0 and later has many portions re-written, and it is unlikely that an upgrade from any 2.0 version will work properly.
 6. Version 3.0 and later are so different that I would recommend starting a new game after download and installation.
@@ -122,7 +122,14 @@ For known issues and planned features, see [TODO.md](TODO.md).
 <a name="development"></a>
 ## 🧩 Development
 
-Source code (Papyrus scripts and packaging tools) are kept in a private repository.
+Source code (Papyrus scripts and plugin file) are kept in a private repository.
+
+<a name="sexual-content-compliance"></a>
+## 🔞 Sexual Content Compliance
+
+This mod includes adult-themed content. Users must be of legal age in their location to access these features.  
+
+For details on how the mod handles sexual content, alternatives for non-explicit play, and compliance measures, see the full [COMPLIANCE.md](COMPLIANCE.md) page.
 
 <a name="credits"></a>
 ## 🎨 Credits
