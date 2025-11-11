@@ -1,5 +1,3 @@
-# COMPLIANCE.md
-
 # Sexual Content Compliance in Assimilation Mod
 
 ## Overview

@@ -1,6 +1,8 @@
-# TODO Outstanding Issues and Planned Features
+# Outstanding Issues and Planned Features
 
 The outstanding issues that need to be fixed and features that are planned for subsequent releases.
+
+Higher priority issues are placed near the top of lists.
 
 ## 🐞 Prioritized Issues (these will roll off when included in a release)
 
