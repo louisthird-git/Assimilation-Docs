@@ -18,20 +18,20 @@ Assimilation has been designed with careful consideration to comply with platfor
 
 ```mermaid
 flowchart TD
-    A[StartAnimation(akActors, aiType, aiDuration, aiFurnitureRadius, abUseFurniture)] --> B{Actors exist & bEnableSex?}
-    B -- No --> Z[Return / Skip Animation]
-    B -- Yes --> C{AssimilationBehaviorQuest running?}
-    C -- Yes --> D[ASS_Behavior.ResetWait()]
+    A[StartAnimation] --> B{Actors exist AND bEnableSex?}
+    B -- No --> Z[Skip Animation / Return]
+    B -- Yes --> C{Quest running?}
+    C -- Yes --> D[Reset Behavior]
     C -- No --> E[Continue]
     D --> E
-    E --> F{Is AAF_API installed?}
-    F -- Yes --> G[StartAAFAffect(akActors, aiType, aiDuration, aiFurnitureRadius, abUseFurniture)]
-    F -- No --> H[StartFadeAffect(akActors, aiType)]
-    H --> I[ASS_Message.MapRomanceTypeToMessage(aiType)]
-    I --> J{bRomanceNotifications:General?}
-    J -- No --> K[Return default message 174: "That was great!"]
-    J -- Yes --> L[Return romanceMessages[aiType] (graphic)]
-    K --> M[ASS_Message.ShowFadeMessage(message)]
+    E --> F{AAF installed?}
+    F -- Yes --> G[StartAAFAffect]
+    F -- No --> H[StartFadeAffect]
+    H --> I[MapRomanceTypeToMessage]
+    I --> J{bRomanceNotifications enabled?}
+    J -- No --> K[Return default message: That was great!]
+    J -- Yes --> L[Return graphic romance message]
+    K --> M[ShowFadeMessage]
     L --> M
     G --> N[Animation plays via AAF]
 ```
