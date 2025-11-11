@@ -23,4 +23,6 @@ Source code (Papyrus scripts and packaging tools) are kept in a private reposito
 
 ---
 
-© 2025 Louis Gaghan. This mod is not affiliated with Bethesda Softworks.
+© 2025.
+
+This mod is not affiliated with Bethesda Softworks.
