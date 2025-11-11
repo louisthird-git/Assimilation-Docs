@@ -1,11 +1,8 @@
 # Assimilation
 
-Public documentation and release notes for Fallout 4 mod "Assimilation".
+Public documentation for the Fallout 4 mod "Assimilation".
 
-## 📦 Current Version
-
-**v3.5** (Released: November 2025)
-
+<a name="description"></a>
 ## 🧭 Description
 
 Nate or Nora are great fighters (just ask Strong\!) and extremely valuable to factions in the Commonwealth.  Thus, if the player health gets too low (or NPCs are romanced) then that faction may assimilate them by changing their looks or locking them into the faction.  
@@ -14,6 +11,7 @@ This mod consists of several quests that trigger after certain events like your 
    
 This mod complements LL mods like [AAF Violate](https://www.loverslab.com/topic/105378-aaf-violate), [Sexual Harassment](https://www.loverslab.com/topic/96132-aaf-sexual-harassment-142021) and [Sex 'Em Up](https://www.loverslab.com/files/file/7281-aaf-sex-em-up/) and is similar in some ways to LL mods like [Tattoo After Rape](https://www.loverslab.com/topic/136928-aaf-tattoo-after-rape-1182020) and [Rad Morphing Redux](https://www.loverslab.com/files/file/12062-rad-morphing-redux/).  
    
+<a name="features"></a>
 ## ✨ Features
    
 If the player health falls below a configurable value or after the player romances a partner of a particular faction or after using a hotkey, there is a chance that the player's clothes, hair, body, skin, face, and faction may be changed.  The chance for a change to happen for each body section and for each faction is configurable through MCM.  
@@ -67,12 +65,14 @@ If the player health falls below a configurable value or after the player romanc
    
 NOTE: There is no quick undo for the changes once they happen.  If the player's hair changes, then you're going to have to see John in Diamond City or Horatio in Vault 81 to get a new hairstyle.  If the player's body or skin changes, then you're going to have to see Doc Crocker in Diamond City to fix it.  You can put your other clothes back on if you don't like the ones given to you (the mod doesn't remove them), or some may play with mods where all your clothes are stripped, and then the changed clothes will be the only ones you have\!  There are easy ways to change all of these with the showlooksmenu command, but role playing and continuing with whatever changes is more interesting.  
    
+<a name="conflicts"></a>
 ## ⚠️ Conflicts
    
 Assimilation conflicts with the following other mods mostly because they are also modifying your faction relationships:
 
 1. [Raider Pet](https://www.loverslab.com/files/file/8238-raider-pet/) \- Does something similar to Assimilation for Raiders and you end up with the Raider Pet and Assimilation systems fighting each other.  For the best experience, use one or the other.  If there is a feature from Raider Pet that you miss when using Assimilation then let me know and I may be able to add something similar.
    
+<a name="requirements"></a>
 ## 📌 Requirements
 
 1. Fallout 4 v1.10.984 or newer (NextGen)  
@@ -80,17 +80,19 @@ Assimilation conflicts with the following other mods mostly because they are als
 3. [MCM](https://www.nexusmods.com/fallout4/mods/21497) \- needed for extensive configuration options  
 4. [LLFP](https://www.loverslab.com/topic/81889-devtestbeta-ll-fourplay-community-f4se-plugin-v54-2025-03-30/) \- needed for string functions only (included but included in [AAF](https://www.moddingham.com/viewtopic.php?t=2) if you install that)
 
+<a name="installation"></a>
 ## ⚙️ Installation
 
 1. Download the latest archive from [NexusMods](https://www.nexusmods.com/fallout4/mods/71744) or [LoversLab](https://www.loverslab.com/topic/160109-assimilation/).
 2. Review the [**Conflicts**](#conflicts) and [**Requirements**](#requirements) sections above before proceeding.
-3. Install with your favorite mod manager ([**Mod Organizer 2**](https://www.nexusmods.com/fallout4/mods/6194) or [**Vortex**](https://www.nexusmods.com/site/mods/1)).
+3. Install with your favorite mod manager ([**Mod Organizer 2**](https://www.modorganizer.org/) or [**Vortex**](https://www.nexusmods.com/site/mods/1)).
 4. Additional features are available in the mod if the [**Optional Mods**](#optional-mods) listed below are installed.
 5. Version 3.0 and later has many portions re-written, and it is unlikely that an upgrade from any 2.0 version will work properly.
 6. Version 3.0 and later are so different that I would recommend starting a new game after download and installation.
 7. Definitely do not be assimilated into a faction when upgrading\!  
 8. Ensure **Assimilation.esp** is active in your load order.
 
+<a name="optional-mods"></a>
 ## 🧩 Optional Mods
 
 1. [AAF](https://www.moddingham.com/viewtopic.php?t=2) including some [themes/animations](https://www.loverslab.com/files/file/7720-fo4-aaf-themes-vanillasexanimations-kinkyaggressive-and-creaturesexanimations/) \- for animation triggering  
@@ -102,47 +104,27 @@ Assimilation conflicts with the following other mods mostly because they are als
 7. [Integrated with Scripted Face Tints (SFT)](https://www.nexusmods.com/fallout4/mods/76797) \- if you want face changes  
 8. [F4z Ro D'oh](https://www.nexusmods.com/fallout4/mods/39848) \- for better silent dialogue lines
 
+<a name="changelog"></a>
 ## 🗒️ Changelog
 
-See [CHANGELOG.md](./CHANGELOG.md)
+For a list of versions and summary of changes, see [CHANGELOG.md](./CHANGELOG.md)
 
-## 🐞 Prioritized Issues (these will roll off each release)
+<a name="known-issues"></a>
+## 🐞 Known Issues
 
-* [SKK Combat Stalkers](https://www.nexusmods.com/fallout4/mods/57842) only uses Friend/Enemy factions.  Thus, if you are Raider assimilated and Raiders spawn to come after you, then they will be your enemy which doesn't make sense.  Not sure how to fix this one as I cannot add the Combat Stalkers enemy faction into your friends because then (in Raider example) Super-mutants that spawn will be your friend. Challenging, no known solution.  
-* Hair stretching out and actor disappearing on AAF animations.  This is not an issue with this mod and looks like it involves the timing of hair changes, but I would love to find a workaround.  Challenging, no known solution.
+For known issues and planned features, see [TODO.md](TODO.md).
 
-## 🛠️ Prioritized Features (these will roll off each release)
+<a name="planned-features"></a>
+## 🛠️ Planned Features
 
-* Faction  
-  * Increase the number of faction help quests available (i.e. the variety) when assimilated.  
-    * Propaganda \- Deliver propaganda letters to containers (all)  
-    * Toy Drive \- Fetch toys (Settlers, Minutemen)  
-    * Bad Habit \- Fetch chems (all)  
-    * Spare Parts \- Fetch bot parts (Rust Devils)  
-    * Tool Time \- Fetch tools (all)  
-    * Sacred Scrolls \- Fetch special books (Children of Atom)  
-    * Got Junk? \- Eliminate Junk items (all)  
-    * Tourist Escort \- Deliver settlers to various locations (Settlers)  
-    * Prisoner Transfer \- Deliver prisoners between camps (enemy factions)  
-    * Feeding Time \- Deliver food to animals (Pack)  
-    * Big Game Hunting \- Eliminate large or small animals (Trappers)  
-    * Camp Raid \- Eliminate settler camp (enemy factions)  
-    * Human Garbage \- Eliminate Raider camp (Settlers, Minutemen)  
-    * Dead Drop \- Deliver a dead drop letter in a container (Railroad)  
-    * S.R.B. \- Track down and deliver a synth (Institute)  
-    * The Hustle \- Deliver chems or weapons for caps (Triggermen)  
-    * Abominations \- Eliminate Super Mutants (BoS)  
-    * Infestation \- Eliminate Feral Ghouls (BoS, Minutemen, Settlers)  
-    * Attack of the Synths \- Eliminate Gen1 & Gen2 synths (Railroad, BoS)  
-    * Who Are You? \- Determine if a faction member is a synth (all)  
-    * Military Mentor \- Take kid out to eliminate an animal or enemy faction (any)  
-    * Scavver Mentor \- Take kid out to fetch items (any)  
-    * Order Up \- Act as waiter/waitress to take and deliver an order from a faction member (any)
+For known issues and planned features, see [TODO.md](TODO.md).
 
+<a name="development"></a>
 ## 🧩 Development
 
 Source code (Papyrus scripts and packaging tools) are kept in a private repository.
 
+<a name="credits"></a>
 ## 🎨 Credits
 
 * Bethesda for Fallout 4 as without it none of this would be possible  
