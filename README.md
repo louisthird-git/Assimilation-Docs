@@ -127,7 +127,7 @@ Source code (Papyrus scripts and plugin file) are kept in a private repository.
 <a name="sexual-content-compliance"></a>
 ## 🔞 Sexual Content Compliance
 
-This mod includes adult-themed content. Users must be of legal age in their location to access these features.  
+Adult-themed content can be enabled on this mod. Users must be of legal age in their location to access these features.  
 
 For details on how the mod handles sexual content, alternatives for non-explicit play, and compliance measures, see the full [COMPLIANCE.md](COMPLIANCE.md) page.
 
