@@ -78,7 +78,7 @@ Assimilation conflicts with the following other mods mostly because they are als
 1. Fallout 4 v1.10.984 or newer (NextGen)  
 2. [F4SE](https://f4se.silverlock.org/) \- needed for lots of expanded script functions  
 3. [MCM](https://www.nexusmods.com/fallout4/mods/21497) \- needed for extensive configuration options  
-4. [LLFP](https://www.loverslab.com/topic/81889-devtestbeta-ll-fourplay-community-f4se-plugin-v54-2025-03-30/) \- needed for string functions only (included but included in [AAF](https://www.moddingham.com/viewtopic.php?t=2) if you install that)
+4. [LLFP](https://www.loverslab.com/topic/81889-devtestbeta-ll-fourplay-community-f4se-plugin-v54-2025-03-30/) \- needed for string functions only (included but also included in [AAF](https://www.moddingham.com/viewtopic.php?t=2) if you install that)
 
 <a name="installation"></a>
 ## ⚙️ Installation
