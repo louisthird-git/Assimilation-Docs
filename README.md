@@ -90,7 +90,7 @@ Assimilation conflicts with the following other mods mostly because they are als
 5. Version 3.0 and later has many portions re-written, and it is unlikely that an upgrade from any 2.0 version will work properly.
 6. Version 3.0 and later are so different that I would recommend starting a new game after download and installation.
 7. Definitely do not be assimilated into a faction when upgrading\!  
-8. Ensure **Assimilation.esp** is active in your load order.
+8. Ensure **Assimilation.esp** is active in your load order and after any of the required or optional mods.
 
 <a name="optional-mods"></a>
 ## 🧩 Optional Mods
