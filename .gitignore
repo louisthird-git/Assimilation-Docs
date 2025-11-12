@@ -1,4 +1,0 @@
-# Ignore local build artifacts
-*.psd
-Thumbs.db
-.DS_Store
