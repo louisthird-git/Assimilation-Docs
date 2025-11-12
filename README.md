@@ -33,12 +33,14 @@ If the player health falls below a configurable value or after the player romanc
   * [KS Hairdos with Physics](https://www.nexusmods.com/fallout4/mods/29944)  
   * **More can easily be added\!  Which ones would you like?**
 * **Body** \- Your CBBE or FusionGirl body will be morphed based on settings in MCM.  Configure them as you see fit, but by default it is set for female characters making the breasts and butt bigger and the waist smaller, i.e. an hourglass figure for most factions except "settler" factions which are the opposite.  It is possible to configure the settings for male and female characters.  
+  * Uses [BodySlide](https://www.nexusmods.com/fallout4/mods/25)
   * FEV \- If you romance a super-mutant, then some FEV may sneak into your system and cause increased muscle mass and some increased strength side-effects.  Beware\!  (This can be configured or disabled in MCM).  
   * Actions Effect Body \- Similar to mods like WTTF. You eat \- you get large, You swing & bash & workout \- you get muscle, You lounge & get rads \- you get thin (can be configured or disabled in MCM).  
   * Metabolism \- If you don't eat/exercise your body grows thinner by a small, balanced, configurable amount over time... like real people.  
   * Walking/Standing-Still Bonus option \- To aid in surviving while in faction, you get a tiny heal bonus while walking or standing still.  
   * Noise Option \- There is an option that player makes noise when swinging, bashing, jumping, or swimming.  
 * **Skin** \- If certain mods are installed, then tattoos can be applied to the entire body  
+  * Uses [Looksmenu](https://www.nexusmods.com/fallout4/mods/12631)
   * Once across entire body when first affected if [Random Overlay Framework](https://www.loverslab.com/files/file/14263-random-overlay-framework/) is installed  
   * Thereafter one after romance, combat defeat or helping faction members  
 * **Face** \- Your face can have tattoos or damage applied to it.  
@@ -101,7 +103,7 @@ Assimilation conflicts with the following other mods mostly because they are als
 4. [Looksmenu](https://www.nexusmods.com/fallout4/mods/12631) \- if you want skin overlay changes  
 5. [Random Overlay Framework](https://www.loverslab.com/files/file/14263-random-overlay-framework/) \- will use for an initial set of skin overlay changes  
 6. [Tattoo After Rape](https://www.loverslab.com/topic/136928-aaf-tattoo-after-rape-1182020) \- will use it for skin overlay changes if installed, and otherwise it uses [Looksmenu](https://www.nexusmods.com/fallout4/mods/12631) directly  
-7. [Integrated with Scripted Face Tints (SFT)](https://www.nexusmods.com/fallout4/mods/76797) \- if you want face changes  
+7. [Scripted Face Tints (SFT)](https://www.nexusmods.com/fallout4/mods/76797) \- if you want face changes  
 8. [F4z Ro D'oh](https://www.nexusmods.com/fallout4/mods/39848) \- for better silent dialogue lines
 
 <a name="changelog"></a>
