@@ -1,6 +1,6 @@
 # Changelog
 
-## [v3.5](release-v3.5.md) (2025-11-09)
+## [v3.5](Releases/v3.5.md) (2025-11-09)
 
 Bug fixes from 3.2 release and internal 3.3 & 3.4 versions. Face! Endings. Overseer. Help Mail, Food, Water. Metabolism. Noise.
 
