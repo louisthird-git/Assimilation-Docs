@@ -12,6 +12,7 @@ Higher priority issues are placed near the top of lists.
 ## 🛠️ Prioritized Features (these will roll off when included in a release)
 
 * Faction  
+  * Retaliation quest - If you decide to kill the faction member assimilating you then that faction will come hunt you down until you are forgiven. You are forgiven by spending 1 day in the faction for each time you have killed while in the process of being assimilated, longer if you have a poor faction reputation. The more you have killed while in the process of being assimilated, then the more aggressively they will hunt you down. They won't treat you as nice when you join them too until you are forgiven. 
   * Increase the number of faction help quests available (i.e. the variety) when assimilated.  
     * Propaganda \- Deliver propaganda letters to containers (all)  
     * Toy Drive \- Fetch toys (Settlers, Minutemen)  
